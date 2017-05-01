@@ -1,0 +1,4 @@
+site_name: BIX
+pages:
+  - Home: index.md
+theme: readthedocs
